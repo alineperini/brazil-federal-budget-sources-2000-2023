@@ -1,0 +1,12 @@
+﻿campo;tipo;descrição;exemplo;observação
+ano_arquivo;inteiro;Ano do arquivo anual de origem.;2020;Campo técnico criado na consolidação.
+registro_id;texto;Identificador único de linha no dataset consolidado.;2020-0042;Não é identificador oficial do Governo.
+arquivo_origem;texto;Tabela anual da qual o registro foi consolidado.;Mapa_Fontes_Oficiais_2020;Permite rastrear a linha ao arquivo anual.
+Ciclo oficial;texto;Ciclo de Plano Plurianual associado ao exercício.;PPA 2020-2023;Preservado conforme o mapeamento anual.
+Ano;inteiro;Exercício orçamentário.;2020;Ano conforme a tabela anual.
+Categoria oficial;texto;Categoria/bloco documental conforme divulgado no portal.;Legislação Orçamentária Anual / Alterações Orçamentárias;Taxonomia histórica preservada.
+Página oficial;texto;Página ou seção oficial na qual a fonte foi identificada.;Legislação 2020;Rótulo de navegação usado no mapeamento.
+Documento/fonte conforme divulgado;texto;Título do ato, documento, volume, anexo ou fonte conforme registrado.;Medida Provisória nº 935, de 1 de abril de 2020 (Covid-19);Grafia histórica preservada quando possível.
+Tipo de fonte;texto;Natureza documental.;Medida Provisória;Ex.: lei, decreto, portaria, relatório, anexo, volume, página índice.
+Link oficial;URL;URL oficial usada como fonte ou referência.;https://www.gov.br/...;Pode apontar para documento direto ou página-mestra/categoria.
+Observação metodológica;texto;Notas sobre particularidades, conteúdo, valores, finalidade ou decisão de coleta.;Fonte estrutural específica disponibilizada pelo Governo.;Nem todas as linhas contêm valores/finalidades.

@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Brazilian Federal Budgetary System: Official Documentary Sources, 2000–2023"
+type: dataset
+version: "1.0"
+date-released: 2026-10-22
+doi: "10.5281/zenodo.23574321"
+url: "https://doi.org/10.5281/zenodo.23574321"
+
+authors:
+  - family-names: "Araujo Perini"
+    given-names: "Aline"
+    orcid: "https://orcid.org/0000-0002-3058-0224"
+    affiliation: "University of São Paulo (USP/ESALQ), Department of Economics, Administration and Sociology, Piracicaba, SP, Brazil"
+
+  - family-names: "Guimarães"
+    given-names: "Camilla"
+    affiliation: "University of São Paulo (USP/ESALQ), Department of Economics, Administration and Sociology, Piracicaba, SP, Brazil"
+
+  - family-names: "Zanardi de Freitas"
+    given-names: "Anderson"
+    orcid: "https://orcid.org/0000-0003-0263-3541"
+    affiliation: "Nuclear and Energy Research Institute (IPEN/CNEN), São Paulo, SP, Brazil"
+
+  - family-names: "Olímpio de Menezes"
+    given-names: "Mario"
+    orcid: "https://orcid.org/0000-0002-5018-9126"
+    affiliation: "Nuclear and Energy Research Institute (IPEN/CNEN), São Paulo, SP, Brazil"
+
+preferred-citation:
+  type: dataset
+  title: "Brazilian Federal Budgetary System: Official Documentary Sources, 2000–2023"
+  authors:
+    - family-names: "Araujo Perini"
+      given-names: "Aline"
+    - family-names: "Guimarães"
+      given-names: "Camilla"
+    - family-names: "Zanardi de Freitas"
+      given-names: "Anderson"
+    - family-names: "Olímpio de Menezes"
+      given-names: "Mario"
+  year: 2026
+  doi: "10.5281/zenodo.23574321"
+  url: "https://doi.org/10.5281/zenodo.23574321"
